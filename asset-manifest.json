@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hex-islands/static/css/main.5b16e9fe.css",
+    "main.js": "/hex-islands/static/js/main.434cf3cc.js",
+    "static/js/787.bfb13d38.chunk.js": "/hex-islands/static/js/787.bfb13d38.chunk.js",
+    "index.html": "/hex-islands/index.html",
+    "main.5b16e9fe.css.map": "/hex-islands/static/css/main.5b16e9fe.css.map",
+    "main.434cf3cc.js.map": "/hex-islands/static/js/main.434cf3cc.js.map",
+    "787.bfb13d38.chunk.js.map": "/hex-islands/static/js/787.bfb13d38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b16e9fe.css",
+    "static/js/main.434cf3cc.js"
+  ]
+}
